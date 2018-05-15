@@ -2,7 +2,7 @@
 homework4
 
 ## contributor
-ReimuYk ºúÓêÆæ
-derFischer ¶¡¶¡
-199ChenNuo ³ÂÅµ
-592McAvoy ÂÞÓî³½
+- ReimuYk ÂºÃºÃ“ÃªÃ†Ã¦
+- derFischer Â¶Â¡Â¶Â¡
+- 199ChenNuo Â³Ã‚Ã…Âµ
+- 592McAvoy Ã‚ÃžÃ“Ã®Â³Â½
