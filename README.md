@@ -2,7 +2,7 @@
 homework4
 
 ## contributor
-- ReimuYk ºúÓêÆæ
-- derFischer ¶¡¶¡
-- 199ChenNuo ³ÂÅµ
-- 592McAvoy ÂÞÓî³½
+- ReimuYk 胡雨奇
+- derFischer 丁丁
+- 199ChenNuo 陈诺
+- 592McAvoy 罗宇辰
